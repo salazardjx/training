@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: 3.9
 
-      # Run the hello_world.py python script
+      # Run the hello_world.py python script v2
       - name: Run Python script
         run: |
           echo hello_world.py
